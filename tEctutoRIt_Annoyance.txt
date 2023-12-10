@@ -1,7 +1,11 @@
+[Adblock Plus 2.0]
+! Version: 
 ! Title: 😎tEctutoRIt's Annoyance List
+! Last modified: 9 December 2023
 ! Description: Personal list of AnnoyanAnnoyance 
 ! Homepage: https://github.com/tEctutoRIt/AnoyFilter
-! Version: 9 December 2023
+! Expires: 4 days (update frequency)
+!
 
 thepiratebay.org##.align-center.ad728
 thepiratebay.org##.ad120.col-left
