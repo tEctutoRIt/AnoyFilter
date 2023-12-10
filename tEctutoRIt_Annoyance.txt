@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 
 ! Title: 😎tEctutoRIt's Annoyance List
-! Last modified: 9 December 2023
+! Version: 
+! Last modified: Sat, 09 Dec 2023 02:05:42 +0000
 ! Description: Personal list of AnnoyanAnnoyance 
 ! Homepage: https://github.com/tEctutoRIt/AnoyFilter
 ! Expires: 4 days (update frequency)
